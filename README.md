@@ -1,4 +1,4 @@
 # Interplanetary-Mission-Trajectory-Optimization-Project
 
 
-$ <script src="https://cdn.dribbble.com/users/253392/screenshots/7128584/media/f8012f5661ff721d23f88fdedb1b5598.gif">
+![github_construction](https://github.com/Jakayla-R/Interplanetary-Mission-Trajectory-Optimization-Project/assets/90592223/e06e6a86-1ba8-4b56-af1f-cabf880d97ca)
